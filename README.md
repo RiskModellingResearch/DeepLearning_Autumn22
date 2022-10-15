@@ -1,9 +1,9 @@
-# DeepLearning_Winter22
+# DeepLearning_Autumn22
 
 ### Содержание
 
 1. Введение в нейронные сети
-2. Градиентный спуск. Backpropagation
+2. Градиентный спуск. Backpropagation, Pytorch
 3. Эвристики для обучения нейронных сетей
 4. Feature Engineering, TensorBoard, MLFlow
 5. Нейронные сети для табличных данных (TabNet, DeepFM)
